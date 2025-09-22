@@ -19,12 +19,14 @@ Proyecto simple en JavaScript para ingresar nombres de amigos y realizar un sort
 
 ## 📂 Estructura del proyecto
 
+```
 .
 ├── index.html
 ├── style.css
 ├── app.js
 └── assets/
-
+└── assets/readme
+```
 
 ## 🛠️ Tecnologías
 - **HTML5**  
@@ -43,4 +45,4 @@ Proyecto simple en JavaScript para ingresar nombres de amigos y realizar un sort
 ![Error lista de amigos vacía](assets/readme/imagen-sin-amigos-disponibles.png)
 
 ### Mensaje cuando se sortea un amigo
-![Amigo sorteado](assets/readme/imagen-ok.pngg)
+![Amigo sorteado](assets/readme/imagen-ok.png)
